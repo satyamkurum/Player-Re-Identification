@@ -21,3 +21,10 @@ pip install -r requirements.txt
 - `crops/` – Contains cropped player images
 - `runs/detect/track/labels/` – Label outputs from ByteTrack (Tacticam)
 - `runs/detect/predict/labels/` – Label outputs from ByteTrack (Broadcast)
+
+## About Me
+  Satyam Kurum
+- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
+- Passionate about GenAI, NLP, and creative machine learning apps
+
+- You are free to use, modify, and distribute it with attribution.
