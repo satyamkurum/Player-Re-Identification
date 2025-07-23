@@ -1,4 +1,4 @@
-# Soccer Player Re-Identification (Cross-Camera)
+# Soccer Player Re-Identification (Computer Vision)
 
 This repository contains a full pipeline for soccer player cross-camera ReID using YOLOv11 + ByteTrack + Torchreid.
 
