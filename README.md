@@ -13,7 +13,7 @@ This repository contains a full pipeline for soccer player cross-camera ReID usi
 ```bash
 pip install -r requirements.txt
 ```
-2. Place your videos and YOLO model weights (https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view) in the working directory.
+2. Place your videos and YOLO model weights in the working directory.
 3. Run the python script: `SoccerPlayerReIdentification`
 
 ## Sample Folder Structure
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## About Me
   Satyam Kurum
-- Data Scientist | ML Developer | 2025 NITK Surathkal Graduate
+- Data Scientist | ML Developer | NITK Surathkal Graduate 2025
 - Passionate about GenAI, NLP, and creative machine learning apps
 
 - You are free to use, modify, and distribute it with attribution.
